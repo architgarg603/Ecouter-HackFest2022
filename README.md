@@ -1,5 +1,5 @@
-## MINT
-<img src="Readme Images/WhatsApp Image 2022-03-08 at 11.44.06 PM.jpeg" alt="Banner" height='440' width='1000'/>
+## ECOUTER
+<img src="https://res.cloudinary.com/pooja-gera/image/upload/v1651908821/Celestial_Biscuit___Smart_India_Hackathon_2022.pptx_1_uotibu.png" alt="Banner" height='440' width='1000'/>
 
 Écouter is a voice-enabled and multilingual application available in Indian regional languages for adolescents, adults, and PWDs to detect mental health issues and aid people in managing them. Écouter can detect schizophrenia, bipolar disorder, anxiety, and depression.<br>
 "TicTac" is Écouter's video conferencing and chat platform where users can connect with support groups and doctors. Écouter tracks the real-time location of the user which enables the caretakers to know the location of the patients and helps to analyze the behavior of the users. <br>
