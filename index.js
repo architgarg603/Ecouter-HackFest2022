@@ -219,7 +219,7 @@ passwordlessAuthenticationBtn.onclick = function(){
 artTherapyBtn.onclick = function(){
     let verificationToken = localStorage.getItem("Verification");
      if(verificationToken){
-        window.location.href='./Board/OpenBoard/activity/index.html'
+        window.location.href='./Board/OpenBoard/activity/board.html'
         return
   }
   window.location.href = './Authentication/signIn.html'
